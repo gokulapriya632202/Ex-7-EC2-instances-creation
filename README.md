@@ -1,5 +1,6 @@
-# EX-3-EC2 Instance Creation
-
+# EX-3 EC2 Instance Creation
+## NAME:  GOKULA PRIYA P
+## REG NO: 212222040044
 ## **Aim**
 To set up and launch an Amazon EC2 instance, providing on-demand computing services with flexible configurations for application deployment.
 
